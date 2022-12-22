@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "2022-12-21 1",
+      "path": "test2/2022-12-21 1.md"
+    },
+    {
+      "type": "file",
+      "title": "file2",
+      "path": "test2/file2.md"
+    },
+    {
+      "type": "search",
+      "title": "2",
+      "query": "2"
+    }
+  ]
+}
