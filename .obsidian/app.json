@@ -12,5 +12,7 @@
     "en-CA",
     "en-AU"
   ],
-  "attachmentFolderPath": "attachment"
+  "attachmentFolderPath": "attachment",
+  "autoConvertHtml": false,
+  "useMarkdownLinks": true
 }
