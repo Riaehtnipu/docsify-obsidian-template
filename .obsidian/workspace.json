@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "422df95c31f449b5",
+        "id": "9a3b861ea3dfe07c",
         "type": "tabs",
         "children": [
           {
-            "id": "78f51740270436c4",
+            "id": "d19f079966af89f3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "293e283e0de0bb44",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "943e3fc6bb2a4387",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "docs/环境搭建/使用docsify搭建博客.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "docs/环境搭建/使用docsify搭建博客.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "docs/环境搭建/使用docsify搭建博客.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "docs/环境搭建/使用docsify搭建博客.md"
+              }
             }
           },
           {
@@ -162,17 +153,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "943e3fc6bb2a4387",
+  "active": "d19f079966af89f3",
   "lastOpenFiles": [
-    "Pasted image 20221222212719.png",
-    "tst2/ceshi.md",
-    "tes/q1.md",
-    "tst2/fsdf.md",
-    "rnamm75er.hd-bkt.clouddn.com/20221222205345.png.md",
-    "rnamm75er.hd-bkt.clouddn.com/img20221222205707.png.md",
-    "rnamm75er.hd-bkt.clouddn.com/img20221222210140.png.md",
-    "rnamm75er.hd-bkt.clouddn.com/img20221222205929.png.md",
-    "Pasted image 20221222114100.png",
-    "Pasted image 20221222210650.png"
+    "_coverpage.md",
+    "_sidebar.md",
+    "README.md",
+    "docs/实用软件/软件存档.md",
+    "docs/方案设计/如何管理笔记.md",
+    "docs/环境搭建/使用docsify搭建博客.md",
+    "docs/环境搭建/使用vuepress搭建博客.md",
+    "docs/环境搭建/图床的搭建.md",
+    "docs/环境搭建/git初始化.md",
+    "docs/实用软件/软件存档 1.md"
   ]
 }
